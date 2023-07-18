@@ -650,7 +650,7 @@ backspaceCompare("xywrrmp", "xywrrmu#p")//true, After applying backspaces the st
 - The algorithm runs in constant space `O(1)`.
 
 ## 🌟 Minimum Window Sort (medium)
-https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 > Given an array, find the length of the smallest subarray in it which when sorted will sort the whole array.
 
